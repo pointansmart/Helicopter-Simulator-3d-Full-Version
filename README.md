@@ -235,4 +235,4 @@ This repository serves as the official landing page for **Helicopter Simulator 3
 **Get the most recent version of Helicopter Simulator 3D today!**
 
 ---
-**Last updated:** 2026-09-13 22:58:04 UTC
+**Last updated:** 2026-09-14 00:55:46 UTC
